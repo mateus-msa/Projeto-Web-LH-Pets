@@ -1,0 +1,14 @@
+C:\CURSO SENAI\Atividade\bin\Debug\net8.0\Atividade.exe
+C:\CURSO SENAI\Atividade\bin\Debug\net8.0\Atividade.deps.json
+C:\CURSO SENAI\Atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+C:\CURSO SENAI\Atividade\bin\Debug\net8.0\Atividade.dll
+C:\CURSO SENAI\Atividade\bin\Debug\net8.0\Atividade.pdb
+C:\CURSO SENAI\Atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\CURSO SENAI\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+C:\CURSO SENAI\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+C:\CURSO SENAI\Atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+C:\CURSO SENAI\Atividade\obj\Debug\net8.0\Atividade.dll
+C:\CURSO SENAI\Atividade\obj\Debug\net8.0\refint\Atividade.dll
+C:\CURSO SENAI\Atividade\obj\Debug\net8.0\Atividade.pdb
+C:\CURSO SENAI\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+C:\CURSO SENAI\Atividade\obj\Debug\net8.0\ref\Atividade.dll
